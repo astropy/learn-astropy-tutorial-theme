@@ -1,3 +1,9 @@
+# THIS THEME WAS INTEGRATED INTO ASTROPY'S NBCOLLECTION
+https://github.com/astropy/nbcollection
+
+
+
+
 # Learn Astropy Tutorial Theme
 
 This is an [nbconvert](https://nbconvert.readthedocs.io/) custom exporter and template for [Learn Astropy's](https://learn.astropy.org) Jupyter notebook-based tutorials.
